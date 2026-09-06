@@ -1,7 +1,7 @@
 {
-  "versionCode": 54,
-  "versionName": "0.0.46",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.46/seal-front-v0046.apk",
-  "notes": "전사의 공격이 둘이 됐다 — 양손 베기와 한 손 베기가 휘두를 때마다 무작위로 섞인다.",
+  "versionCode": 55,
+  "versionName": "0.0.47",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.47/seal-front-v0047.apk",
+  "notes": "화신(드워프) 디테일 강화 — 마디 뿔·땋은 수염·견갑·허리띠·무릎판, 룬을 획으로",
   "minRequired": 0
 }
