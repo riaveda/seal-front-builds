@@ -1,7 +1,7 @@
 {
-  "versionCode": 56,
-  "versionName": "0.0.48",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.48/seal-front-v0048.apk",
-  "notes": "빙의 — 이동 패드·공격 버튼·스킬 부채꼴·자동 토글 (신의 손길 넷째)",
+  "versionCode": 57,
+  "versionName": "0.0.49",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.49/seal-front-v0049.apk",
+  "notes": "빙의 — 앱이 먼저 걷는다(예측) · 머리 위 시계 고리와 남은 초 · 풀릴 때 알림",
   "minRequired": 0
 }
