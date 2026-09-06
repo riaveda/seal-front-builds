@@ -1,7 +1,7 @@
 {
-  "versionCode": 55,
-  "versionName": "0.0.47",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.47/seal-front-v0047.apk",
-  "notes": "화신(드워프) 디테일 강화 — 마디 뿔·땋은 수염·견갑·허리띠·무릎판, 룬을 획으로",
+  "versionCode": 56,
+  "versionName": "0.0.48",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.48/seal-front-v0048.apk",
+  "notes": "빙의 — 이동 패드·공격 버튼·스킬 부채꼴·자동 토글 (신의 손길 넷째)",
   "minRequired": 0
 }
