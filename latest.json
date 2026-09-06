@@ -1,7 +1,7 @@
 {
-  "versionCode": 51,
-  "versionName": "0.0.43",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.43/seal-front-v0043.apk",
-  "notes": "새 게임을 물을 때 확인 버튼이 설정 버튼 위에 포개지던 것을 고쳤다. 이제 물을 때는 「새로 시작」·「취소」만 남고, 취소하면 메뉴가 그대로 돌아온다. 경제를 한 판 안에 밟게 대장간 값을 낮추고(4등급까지) 마족 배수를 다시 맞췄다 — 새 판부터 먹는다.",
+  "versionCode": 52,
+  "versionName": "0.0.44",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.44/seal-front-v0044.apk",
+  "notes": "신의 왕국 전사가 룬 드워프가 됐다 — 주인님이 직접 그리신 그림을 보고 블렌더로 지었다. 뿔 투구 · 금발 땋은 수염 · 자주 판갑에 금테 · 오른손 파란 룬 망치 · 왼손 붉은 룬 도끼. 액자 초상도 새 모습이다.",
   "minRequired": 0
 }
