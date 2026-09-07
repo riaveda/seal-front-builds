@@ -1,7 +1,7 @@
 {
-  "versionCode": 62,
-  "versionName": "0.0.54",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.54/seal-front-v0054.apk",
-  "notes": "개발 빌드 확대 버튼 — 폰에서 싸움을 가까이 본다",
+  "versionCode": 63,
+  "versionName": "0.0.55",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.55/seal-front-v0055.apk",
+  "notes": "GameHud 를 붙였다 — 소지금·배분·메뉴·따라가기·확대 버튼이 처음으로 화면에 나온다",
   "minRequired": 0
 }
