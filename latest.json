@@ -1,7 +1,7 @@
 {
-  "versionCode": 59,
-  "versionName": "0.0.51",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.51/seal-front-v0051.apk",
-  "notes": "자동/수동을 진짜 스위치로 · 잠긴 표적을 적 머리 위에 표시",
+  "versionCode": 60,
+  "versionName": "0.0.52",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.52/seal-front-v0052.apk",
+  "notes": "자동/수동은 스킬만 — 빙의와 독립인 두 축으로 되돌림",
   "minRequired": 0
 }
