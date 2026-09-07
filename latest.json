@@ -1,7 +1,7 @@
 {
-  "versionCode": 65,
-  "versionName": "0.0.57",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.57/seal-front-v0057.apk",
-  "notes": "화신 체력바를 키웠다 — 선 하나로 보였다",
+  "versionCode": 66,
+  "versionName": "0.0.58",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.58/seal-front-v0058.apk",
+  "notes": "궁수 — 활이 앞을 본다 · 먼 표적도 바라본다 · 몬스터 체력바가 줄어든다 · 화신을 잡으면 대량 경험치",
   "minRequired": 0
 }
