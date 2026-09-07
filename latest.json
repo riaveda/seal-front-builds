@@ -1,7 +1,7 @@
 {
-  "versionCode": 61,
-  "versionName": "0.0.53",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.53/seal-front-v0053.apk",
-  "notes": "싸움이 끝까지 간다 — fight 는 상태 · 사거리 점에 선다 · 맞아도 공격이 안 끊긴다 · 표적을 본다",
+  "versionCode": 62,
+  "versionName": "0.0.54",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.54/seal-front-v0054.apk",
+  "notes": "개발 빌드 확대 버튼 — 폰에서 싸움을 가까이 본다",
   "minRequired": 0
 }
