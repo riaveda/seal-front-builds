@@ -1,7 +1,7 @@
 {
-  "versionCode": 64,
-  "versionName": "0.0.56",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.56/seal-front-v0056.apk",
-  "notes": "체력바가 투구 속에 묻혀 있었다 — Awake 가 높이를 되돌리던 순서를 고침",
+  "versionCode": 65,
+  "versionName": "0.0.57",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.57/seal-front-v0057.apk",
+  "notes": "화신 체력바를 키웠다 — 선 하나로 보였다",
   "minRequired": 0
 }
