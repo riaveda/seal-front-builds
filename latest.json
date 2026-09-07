@@ -1,7 +1,7 @@
 {
-  "versionCode": 58,
-  "versionName": "0.0.50",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.50/seal-front-v0050.apk",
-  "notes": "빙의 마무리 — 스냅 로그를 초당 하나로 막고 팔레트·문턱표를 맞춘다",
+  "versionCode": 59,
+  "versionName": "0.0.51",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.51/seal-front-v0051.apk",
+  "notes": "자동/수동을 진짜 스위치로 · 잠긴 표적을 적 머리 위에 표시",
   "minRequired": 0
 }
