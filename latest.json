@@ -1,7 +1,7 @@
 {
-  "versionCode": 69,
-  "versionName": "0.0.61",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.61/seal-front-v0061.apk",
-  "notes": "디버그 버튼 제거 · 성물 칼질이 끊기던 것 · 빙의 중에는 이동이 공격을 이긴다",
+  "versionCode": 70,
+  "versionName": "0.0.62",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.62/seal-front-v0062.apk",
+  "notes": "말풍선 — 욕구가 바뀌거나 스킬을 쓸 때 화신이 말한다 (흰 테두리)",
   "minRequired": 0
 }
