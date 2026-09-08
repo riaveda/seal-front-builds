@@ -1,7 +1,7 @@
 {
-  "versionCode": 67,
-  "versionName": "0.0.59",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.59/seal-front-v0059.apk",
-  "notes": "활 회전이 실제로 실리게 다시 굽는다 — 어드레서블이 프리팹보다 먼저 구워졌었다",
+  "versionCode": 68,
+  "versionName": "0.0.60",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.60/seal-front-v0060.apk",
+  "notes": "스킬을 롤처럼 — lv1부터 하나씩 배우고 5랭크로 자란다 · 전부 액티브 · 쓰는 맛 이펙트",
   "minRequired": 0
 }
