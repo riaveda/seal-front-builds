@@ -1,7 +1,7 @@
 {
-  "versionCode": 75,
-  "versionName": "0.0.66",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.66/seal-front-v0066.apk",
-  "notes": "사냥감이 동물이 됐다(사슴·여우) · 철광석·오리하르콘 결정 자리",
+  "versionCode": 76,
+  "versionName": "0.0.67",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.67/seal-front-v0067.apk",
+  "notes": "지도 화신 얼굴 핀 · 첫 판 튜토리얼(코치마크 9걸음 · 손짓) · 광석 v4 · 항복 창구 · 검증 사다리",
   "minRequired": 0
 }
