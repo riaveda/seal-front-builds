@@ -1,7 +1,7 @@
 {
-  "versionCode": 72,
-  "versionName": "0.0.64",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.64/seal-front-v0064.apk",
-  "notes": "화면 새 단장(스킨·아이콘·메뉴·친구·대전·경영) · 랭킹전(Elo) · 편 색(WC3 8색) · 해골 마왕국 일곱 · 광석 자리 표시",
+  "versionCode": 73,
+  "versionName": "0.0.65",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.65/seal-front-v0065.apk",
+  "notes": "사냥감이 동물이 됐다(사슴·여우·토끼) · 철광석 자리",
   "minRequired": 0
 }
