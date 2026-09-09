@@ -1,7 +1,7 @@
 {
-  "versionCode": 76,
-  "versionName": "0.0.67",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.67/seal-front-v0067.apk",
-  "notes": "지도 화신 얼굴 핀 · 첫 판 튜토리얼(코치마크 9걸음 · 손짓) · 광석 v4 · 항복 창구 · 검증 사다리",
+  "versionCode": 77,
+  "versionName": "0.0.68",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.68/seal-front-v0068.apk",
+  "notes": "판 위 메뉴 「항복」 · 경영 줄 곳간·백성 · 광석이 캐는 만큼 준다 · 지도 핀 겹침 비킴",
   "minRequired": 0
 }
