@@ -1,7 +1,7 @@
 {
-  "versionCode": 77,
-  "versionName": "0.0.68",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.68/seal-front-v0068.apk",
-  "notes": "판 위 메뉴 「항복」 · 경영 줄 곳간·백성 · 광석이 캐는 만큼 준다 · 지도 핀 겹침 비킴",
+  "versionCode": 78,
+  "versionName": "0.0.69",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.69/seal-front-v0069.apk",
+  "notes": "갇힘 없애기 · 지도 정사각형/가벼움 · 손짓별 튜토리얼 12걸음 · 단추 줄 · 개발 콘솔 끔 · 사슴여우 복구",
   "minRequired": 0
 }
