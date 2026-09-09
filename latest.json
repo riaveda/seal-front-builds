@@ -1,7 +1,7 @@
 {
-  "versionCode": 71,
-  "versionName": "0.0.63",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.63/seal-front-v0063.apk",
-  "notes": "친구 대전(닉네임·친구·로비·PvP) · 엘프 궁수와 새 활 · 지도 화면 부감 · 줌아웃 가림 수정 · 병사 넷·화신 여섯 새 모델 · 기사 검+방패 · 마왕국 붉은 활",
+  "versionCode": 72,
+  "versionName": "0.0.64",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.64/seal-front-v0064.apk",
+  "notes": "화면 새 단장(스킨·아이콘·메뉴·친구·대전·경영) · 랭킹전(Elo) · 편 색(WC3 8색) · 해골 마왕국 일곱 · 광석 자리 표시",
   "minRequired": 0
 }
