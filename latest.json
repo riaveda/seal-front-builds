@@ -1,7 +1,7 @@
 {
-  "versionCode": 70,
-  "versionName": "0.0.62",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.62/seal-front-v0062.apk",
-  "notes": "말풍선 — 욕구가 바뀌거나 스킬을 쓸 때 화신이 말한다 (흰 테두리)",
+  "versionCode": 71,
+  "versionName": "0.0.63",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.63/seal-front-v0063.apk",
+  "notes": "친구 대전(닉네임·친구·로비·PvP) · 엘프 궁수와 새 활 · 지도 화면 부감 · 줌아웃 가림 수정 · 병사 넷·화신 여섯 새 모델 · 기사 검+방패 · 마왕국 붉은 활",
   "minRequired": 0
 }
