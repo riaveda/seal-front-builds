@@ -1,7 +1,7 @@
 {
-  "versionCode": 80,
-  "versionName": "0.0.71",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.71/seal-front-v0071.apk",
-  "notes": "언덕·능선 명암 · 비탈 바위 · 땅이 고르는 나무 · 숲 아래층·물가 갈대",
+  "versionCode": 81,
+  "versionName": "0.0.72",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.72/seal-front-v0072.apk",
+  "notes": "강 셰이더가 폰에 실린다 · 바닥 층 배열 고침 · 설정 화면 다시 짬",
   "minRequired": 0
 }
