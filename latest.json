@@ -1,7 +1,7 @@
 {
-  "versionCode": 78,
-  "versionName": "0.0.69",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.69/seal-front-v0069.apk",
-  "notes": "갇힘 없애기 · 지도 정사각형/가벼움 · 손짓별 튜토리얼 12걸음 · 단추 줄 · 개발 콘솔 끔 · 사슴여우 복구",
+  "versionCode": 79,
+  "versionName": "0.0.70",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.70/seal-front-v0070.apk",
+  "notes": "강·지형 — 깊이가 윤곽인 물 · 둑 · 잔물결·반짝임·거품 · 스플랫 경계 잡음",
   "minRequired": 0
 }
