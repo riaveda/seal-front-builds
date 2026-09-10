@@ -1,7 +1,7 @@
 {
-  "versionCode": 82,
-  "versionName": "0.0.73",
-  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.73/seal-front-v0073.apk",
-  "notes": "동물은 정글로 마물은 둥지로 · 성물 몸통이 임자 색 · 따라가기 아이콘",
+  "versionCode": 83,
+  "versionName": "0.0.74",
+  "url": "https://github.com/riaveda/seal-front-builds/releases/download/v0.0.74/seal-front-v0074.apk",
+  "notes": "말풍선이 글자를 재서 커진다 · 동물은 채집꾼 크기 · 스킬 피해 2.2배 · 피흡 발밑 고리",
   "minRequired": 0
 }
